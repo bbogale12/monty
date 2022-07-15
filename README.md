@@ -2,7 +2,7 @@
 
 ## Description
 
-This Holberton School project is a custom ByteCode interpreter, coded in C.
+This ALX School project is a custom ByteCode interpreter, coded in C.
 Compilation:
 ```gcc -Wall -Werror -Wextra -pedantic *.c -o monty```
 Usage:
@@ -28,4 +28,4 @@ File | Description
 [strtow.c](./strtow.c) | string tokenizing functions
 [free.c](./free.c) | memory handling functions
 [char.c](./char.c) | handler functions for ascii instructions
-[bf](./bf) | Advanced tasks: Brainf*ck programs
+
